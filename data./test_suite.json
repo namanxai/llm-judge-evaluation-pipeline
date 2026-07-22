@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "input": "What is Machine Learning?",
+    "system_prompt": "Answer in simple English.",
+    "expected_output": "Machine Learning is a subset of Artificial Intelligence that learns from data.",
+    "criteria": [
+      "correctness",
+      "completeness",
+      "clarity"
+    ]
+  },
+  {
+    "id": 2,
+    "input": "Explain Neural Networks.",
+    "system_prompt": "Answer in simple English.",
+    "expected_output": "Neural Networks are AI models inspired by the human brain.",
+    "criteria": [
+      "correctness",
+      "clarity"
+    ]
+  }
+]
